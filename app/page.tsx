@@ -5,7 +5,7 @@ const items = [
   'Internet is a tool, not a world to live within',
   'Internet belongs to everybody, accessibility and inclusivity are not optional',
   'Internet applications must be designed for common good, not for self-profit',
-  'Cognitive sciences must be used to prevent addictions and bad behaviours, not to enforce them',
+  'Cognitive sciences must be used to prevent addictions and bad behaviors, not to create them',
   'Money is an energy that must be used to build things, it’s not an end in itself',
 ];
 

@@ -8,6 +8,6 @@
 
 4. Internet applications must be designed for common good, not for self-profit
 
-5. Cognitive sciences must be used to prevent addictions and bad behaviours, not to enforce them
+5. Cognitive sciences must be used to prevent addictions and bad behaviors, not to create them
 
 6. Money is an energy that must be used to build things, it’s not an end in itself
