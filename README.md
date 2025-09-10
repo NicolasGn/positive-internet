@@ -1,36 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# [Manifest for a positive internet](https://www.for-a-positive-internet.com/)
 
-## Getting Started
+1. Internet must connect people, not isolate them
 
-First, run the development server:
+2. Internet is a tool, not a world to live within
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+3. Internet belongs to everybody, inclusivity is not optional
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Internet applications must be designed for common good, not for self-profit
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+5. Cognitive sciences must be used to prevent addictions and bad behaviours, not to enforce them
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+6. Money is an energy that must be used to build things, it's not an end in itself
